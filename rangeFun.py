@@ -1,4 +1,4 @@
-#Range function
+# Range function
 x = range(0, 20, 2)
 for n in x:
     print(n)
