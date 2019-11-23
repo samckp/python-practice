@@ -5,3 +5,4 @@
 3. Counter program.
 4. Range function.
 5. Dictionary Operation
+6. Functions 
