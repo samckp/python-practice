@@ -4,3 +4,4 @@
 2. Mean calculated from Numpy And Plotted graph
 3. Counter program.
 4. Range function.
+5. Dictionary Operation
