@@ -1,3 +1,4 @@
+#Python function.
 def square(num):
     return num * num;
 
