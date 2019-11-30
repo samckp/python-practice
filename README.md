@@ -7,3 +7,4 @@
 5. Dictionary Operation
 6. Functions 
 7. Lambda expression
+8. Python Class structure.
