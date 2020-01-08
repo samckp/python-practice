@@ -12,3 +12,8 @@
 10. JSON to Python Object conversion.
 11. Python Exception Handling
 
+
+1) Speech Recognition, install below package 
+Open CMD as Administrator and run the following:
+pip install pipwin
+pipwin install pyaudio
